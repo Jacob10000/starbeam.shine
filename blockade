@@ -1,0 +1,170 @@
+<!DOCTYPE HTML>
+<!--
+	Solid State by HTML5 UP
+	html5up.net | @jepdj
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>BoredRn</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+	<link rel="manifest" href="/favicon/site.webmanifest">
+	<link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#5ddab5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="theme-color" content="#hhhhhh">
+	</head>
+	<body class="is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">Bored Rn</a></h1>	
+						<nav>
+							<a href="#menu">Menu</a>
+						</nav>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<div class="inner">
+							<h2>Menu</h2>
+							<ul class="links">
+								<li><a href="/index">Home</a></li>
+								<li><a href="https://www.boredrn.tk/links">Links</a></li>
+								<li><a href="https://www.boredrn.tk/unblockers">Unblockers</a></li>
+
+							</ul>
+							<a href="#" class="close">Close</a>
+						</div>
+					</nav>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							
+							<h2>Bored Rn</h2>
+							<p>As of The First OF February There WIll Not Be any new updates to the website<br></p>
+						</div>
+					</section>
+
+				<!-- Wrapper -->
+					<section id="wrapper">
+
+						<!-- One -->
+							<section id="one" class="wrapper spotlight style1">
+								<div class="inner">
+									<a href="#bottom" class="image"><img src="images/logo1.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Unblockers and Useful Tools</h2>
+										<p></p>
+										<a href="https://www.boredrn.tk/unblockers" class="special">Redirect To Unblockers</a>
+									</div>
+								</div>
+							</section>
+
+						<!-- Two -->
+							<section id="two" class="wrapper alt spotlight style2">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/pic02.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Links</h2>
+										
+										<a href="https://www.boredrn.tk/links" class="special">Redirect To Links</a>
+									</div>
+								</div>
+							</section>
+
+						
+
+						<!-- Four -->
+							<section id="four" class="wrapper alt style1">
+								<div class="inner">
+									<h2 class="major">Quick Access</h2>
+									<anything id="bottom">
+									<section class="features">
+										<article>
+											<a href="https://replit.com/@boredrn/Kahoot-Bot-Spammer?v=1" class="image"><img src="images/kahoot.jpg" alt="" /></a>
+											<h3 class="major">Kahoot Bot Spammer</h3>
+											<a href="https://replit.com/@boredrn/Kahoot-Bot-Spammer?v=1" class="special">Redirect</a>
+										</article>
+										<article>
+											<a href="https://yt-down.boredrn.repl.co/" class="image"><img src="images/yt.jpg" alt="" /></a>
+											<h3 class="major">Download YouTube Videos</h3>
+											<p>Copy And Paste This: 'shorturl.at/vzNY6' into a new tab before using it</p>
+											<a href="https://node-unblocker.boredrn.repl.co/proxy/https:/www.boredrn.tk/download" class="special">Redirect</a>
+										</article>
+										<article>
+											<a href="https://node-unblocker.boredrn.repl.co/" class="image"><img src="images/un.jpg" alt="" /></a>
+											<h3 class="major">Unblocker</h3>
+											
+											<a href="https://node-unblocker.boredrn.repl.co/" class="special">Redirect</a>
+										</article>
+										<article>
+											<a href="https://yandex.ua/games/" class="image"><img src="images/yan.jpg" alt="" /></a>
+											<h3 class="major">Unblocked Yandex</h3>
+											
+											<a href="https://yandex.ua/games/" class="special">Redirect</a>
+										</article>
+										<article>
+											<a href="https://cornhub.website/" class="image"><img src="https://cdn.corn.rocks/i/logo.png" alt="" /></a>
+											<h3 class="major">Cornhub</h3>
+											
+											<a href="https://cornhub.website/" class="special">Redirect</a>
+										</article>
+										<article>
+											<a href="https://www.mobcrush.com/games" class="image"><img src="https://cdn.mobcrush.com/static/com/mobcrush/images/mobcrush-icon.png" alt="" /></a>
+											<h3 class="major">Mobcrush</h3>
+											<p></p>
+											<a href="https://www.mobcrush.com/games" class="special">Redirect</a>
+										</article>
+									</section>
+									
+								</div>
+							</section>
+
+					</section>
+
+				<!-- Footer -->
+					<section id="footer">
+						<div class="inner">
+							
+							<ul class="copyright">
+								<li>&copy; BoredRn. All rights reserved.</li><li>By Visiting This Website You Agree To The <a href="https://BoredRn.tk/terms">Terms Of Use</a></li>
+							</ul>
+						</div>
+					</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+		<!-- Tags pls ignore -->		
+				
+			<div class="tags">
+			<bored id="bored rn"></bored>
+			<rn id="right now"><rn>
+			<a12ing id="bored"></a12ing>
+			<anyth2ng id="rn"></anyth2ng>
+			<any1ing id="bored"></any1ing>
+			<any3ing id="bored right now"></any3ing>
+			<any4ng id="boredrn.tk"></any4ng>
+			<any5hing id="www.bored.tk"></any5hing>
+			<an6ing id=".tk"></n6ing>
+			</div>
+					
+
+	</body>
+</html>
